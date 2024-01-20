@@ -223,9 +223,8 @@ Skills covered in this program : **`Python`**, **`VectorDB`**, **`NLP`**, **`Git
 
 * ***Project 1 :*** **`Medical Chatbot Project with Llama 2, Pinecone, LangChain & Deployment AWS`**
 * ***Project 2 :*** **`Source Code Analysis with LangChain, OpenAI and ChromaDB & Deployment AWS`**
-* ***Project 
-3 :*** **`Research Paper Summarizer with LangChain, OpenAI, Streamlit and Weviate & Deployment AWS`**
-* ***Project#4 :*** **`Medical Chatbot Project with Llama`****
+* ***Project 3 :*** **`Research Paper Summarizer with LangChain, OpenAI, Streamlit and Weviate & Deployment AWS`**
+* ***Project 4 :*** **`Medical Chatbot Project with Llama`**
 
 <center> <h3 style= "color:green"> 13. Bonus:Additional Productive Tools to Explore </h3> </center>
 
